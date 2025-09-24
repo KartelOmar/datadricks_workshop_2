@@ -1,0 +1,13 @@
+# Python bytecode
+*.pyc
+__pycache__/
+
+# Virtual environment
+.venv/
+venv/
+env/
+ENV/
+
+
+week_2.py
+
